@@ -12,4 +12,4 @@
 
 Obs.: Para funcionamento completo do sistema dentro de um ambiente UNIX é necessário conceder as permissões para execução dos comandos dentro do código:
 
-  # $ chmod +x realiza_cadastro.php
+ $ chmod +x realiza_cadastro.php
